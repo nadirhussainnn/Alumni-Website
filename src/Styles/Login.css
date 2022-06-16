@@ -1,0 +1,13 @@
+.loginArea{
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+.loginForm{   
+    width: 60%;
+    margin: auto;
+    color: aliceblue;
+    border-left: 2px solid #1a2226;
+    border-right: 2px solid #1a2226;
+    border-bottom: 2px solid #1a2226;
+}

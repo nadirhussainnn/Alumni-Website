@@ -1,0 +1,19 @@
+.title {
+    font-size: 2rem;
+    text-align: center !important;
+    color: #4aa1f3;
+    font-weight: bold;
+  }
+  
+  .content {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .addEducationContainer{
+    border-radius: 2px;
+    padding: 4px;
+}

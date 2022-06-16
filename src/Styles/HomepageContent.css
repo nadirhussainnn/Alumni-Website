@@ -1,0 +1,11 @@
+.orgPic{
+    width: 400px;
+    height: 300px;
+}
+
+.aboutIBA{
+    font-size: large;
+    font-family: "Jura", sans-serif;
+    text-align: justify;
+  text-justify: inter-word;
+}

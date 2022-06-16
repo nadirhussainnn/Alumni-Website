@@ -1,0 +1,43 @@
+
+/* .headerMenu{
+  position: sticky;
+  top: 0px;
+} */
+
+.logoArea{
+  cursor: pointer;
+}
+
+.menuBarMenuItem:hover{
+  border-bottom: 3px solid white;
+  
+}
+.orgLogo{
+  
+  
+}
+.menuArea{
+  background-color: #1a2226;
+  border-left: 4px solid blue;
+  border-right: 4px solid blue;
+}
+
+.loginRegisterArea{
+  
+
+}
+
+.menuBarItem{
+  display: inline-block;
+  padding: 5px;
+  font-size: large;
+  font-family: "Jura", sans-serif;
+  text-decoration: none;
+  padding: 5px;
+}
+.menuBarItem>a{
+  color: aliceblue;
+}
+.menuBarItem>a:hover{
+  color: greenyellow;
+}

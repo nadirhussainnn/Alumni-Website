@@ -1,0 +1,27 @@
+/* body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
+#footer {
+   position:relative;
+   bottom:0;
+   width:100%;
+} */
+
+.page-container {
+   position: relative;
+   min-height: 100vh;
+ }
+ 
+ #body {
+   padding-bottom: 2.5rem;    /* Footer height */
+ }
+ 
+ #footer {
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 2.5rem;            /* Footer height */
+ }

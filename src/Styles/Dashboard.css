@@ -1,0 +1,34 @@
+/* .dashboardContainer{
+
+    height: 100vw;
+    width: 100vh;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+} */
+
+
+.notificationContainer{
+  border-bottom: 2px solid brown;
+  margin-bottom: 10px;
+}
+
+.profileImage{
+  width: 150px;
+  height: 200px;
+  border-radius: 4px;
+}
+
+.settingContainer{
+  padding: 10px;
+}

@@ -1,0 +1,72 @@
+.footerColor {
+    
+    background-color: #1a2226;
+
+}
+
+.footerHeadingDesign {
+  font-family: "Jura", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+.fontDesignLighter {
+  font-family: "Jura", sans-serif;
+  font-size: 17px;
+  font-weight: lighter;
+}
+.facebookIcon,.linkdenIcon,.youtubeIcon,.twitterIcon,.googleIcon {
+
+    background-color: transparent;
+    color: rgb(213, 212, 210);
+    padding: 1em;
+}
+.twitterIcon:hover {
+  -webkit-transition: color 1000ms linear;
+  -ms-transition: color 1000ms linear;
+  transition: color 1000ms linear;
+  color: #00acee;
+  border-radius: 50%;
+  background-color: whitesmoke;
+}
+
+.googleIcon:hover {
+  -webkit-transition: color 1000ms linear;
+  -ms-transition: color 1000ms linear;
+  transition: color 1000ms linear;
+  color: #4285f4;
+  border-radius: 50%;
+  background-color: whitesmoke;
+}
+.facebookIcon:hover {
+  -webkit-transition: color 1000ms linear;
+  -ms-transition: color 1000ms linear;
+  transition: color 1000ms linear;
+  color: #3b5998;
+  border-radius: 50%;
+  background-color: whitesmoke;
+}
+.linkdenIcon:hover {
+  -webkit-transition: color 1000ms linear;
+  -ms-transition: color 1000ms linear;
+  transition: color 1000ms linear;
+  color: #0077b5;
+  border-radius: 50%;
+  background-color: whitesmoke;
+}
+.youtubeIcon:hover {
+  -webkit-transition: color 1000ms linear;
+  -ms-transition: color 1000ms linear;
+  transition: color 1000ms linear;
+  color: #ff0000;
+  border-radius: 50%;
+  background-color: whitesmoke;
+}
+.fontDesignBolder {
+  font-family: "Jura", sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+}
+.horizontalLine {
+  background-color: honeydew;
+}
